@@ -1,7 +1,7 @@
 # Graph Attack
 
 ## Goal
-find out if Graph Convolutional Network (GCN) clustering algorithm is susceptible to adversarial examples
+Find out if Graph Convolutional Network (GCN) clustering algorithm is susceptible to adversarial examples
 
 ## Models
 * Graph Convolutional Network
